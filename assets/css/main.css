@@ -2589,7 +2589,7 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #1f1815;
 		background-attachment: scroll,scroll;
-		background-image: url("images/overlay\ -\ Copy.png"), url("../../images/1.jpg");
+		background-image: url("images/overlay-Copy.png"), url("../../images/1.jpg");
 		background-position: top left,top left;
 		background-repeat: repeat,no-repeat;
 		background-size: auto,155%;
@@ -3039,7 +3039,7 @@ input, select, textarea {
 			#footer {
 				background-attachment: scroll;
 				background-color: #1f1815;
-				background-image: url("images/overlay\ -\ Copy.png"), url("../../images/2.jpg");
+				background-image: url("images/overlay-Copy.png"), url("../../images/2.jpg");
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
 				background-size: auto,							cover;
